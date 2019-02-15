@@ -6,8 +6,9 @@ A calculator is a simple machine with help of a calculator we can make some math
 
 ## Concept
 
-A concept behind this is learned simple conditions. Suppose we have a problem and have to solve this in many prospective than the term conditions cames. They allow us to solve a problem in a very minor way. And Functions are also cool. Functions and conditions are the core concept of any programming language.
+Scrapwala is a doorstep service intends to help out people to sell their household junks like Newspaper, iron, plastic books, copies, metal etc. and get paid for it. It is intended to recycle, reuse, reduce up-cycle and resell the scrap.
 
-## How to Play
-
-Same like any calculator it is simple to use. You have to enter your value one and two. Then click the button what you want to do with these value. In this calculator, you can change your value and make a new calculation on the same display. Please don't refresh your web browser in this case you can lose your data.
+Easy : Scrapwala easy to book by App or Web in just 3 steps. The process is not time taking.
+Trust : Sell off your worries along with your scrap.Scrapwala carries digitised ISO certified scales.
+Convenient : Your requested date and time. We pickup, pay and vanish in the background, quickly!
+Get Point : When you sell your scrap in term of you are not only earn cash. You also get reward point.
