@@ -2,8 +2,6 @@
 
 Online Link https://surbhimittal1998.github.io/scrapwala/index.html
 
-A calculator is a simple machine with help of a calculator we can make some mathematical calculations. Same a simple calculator I made with the javascript calculator. You can solve some basic mathematical calculations with it. Its structure is very simple you just type your values and just get what you want to be.
-
 ## Concept
 
 Scrapwala is a doorstep service intends to help out people to sell their household junks like Newspaper, iron, plastic books, copies, metal etc. and get paid for it. It is intended to recycle, reuse, reduce up-cycle and resell the scrap.
